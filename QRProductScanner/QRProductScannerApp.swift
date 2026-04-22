@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct QRProductScannerApp: App {
@@ -13,5 +14,6 @@ struct QRProductScannerApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: ScanRecord.self)
     }
 }
