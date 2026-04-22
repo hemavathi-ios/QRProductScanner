@@ -404,15 +404,15 @@ details will load automatically.
 
 ## 👨‍💻 About This Implementation
 
-**Time Spent:** ~4.5 hours
+**Time Spent:** ~3.5–4 hours 
 
 **Breakdown:**
 - Architecture & planning: 30 min
 - Models & Services: 1 hour
 - Camera integration: 1 hour  
-- Views & UI: 1.5 hours
+- Views & UI: 1 hours
 - Testing & refinement: 30 min
-- Documentation: 1 hour
+- Documentation: 30 hour
 
 **Approach:**
 - Focused on **core functionality first** (scan → verify → save)
